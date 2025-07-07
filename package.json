@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/sercanfurunci/product-api#readme",
   "dependencies": {
+    "axios": "^1.10.0",
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
     "json-server": "^0.17.4"
